@@ -10,5 +10,10 @@
     "test": "mocha"
   },
   "author": "thehobbit85",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["buffer", "reader", "consumer"],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/thehobbit85/buffer-consumer"
+  }
 }
