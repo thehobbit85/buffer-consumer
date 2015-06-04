@@ -1,0 +1,14 @@
+{
+  "name": "buffer-consumer",
+  "version": "0.1.0",
+  "description": "Recives a Buffer and return a buffer-consumer function which allows for reading buffers sequentially and immutably",
+  "main": "buffer-consumer.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "thehobbit85",
+  "license": "MIT"
+}
